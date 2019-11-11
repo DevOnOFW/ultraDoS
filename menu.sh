@@ -9,7 +9,7 @@ do
 python2 IPFINDER.py
             ;;
         "IdeniDos")
-            echo -e "\e[32m "you chose IdeniDos"  \e[0m"
+            echo -e "\e[32m "you chose DDoS"  \e[0m"
 python2 IdeniDos.py
             ;;
         "Quit")
